@@ -1,3 +1,7 @@
 Give a high level oveview of how to implement a LInked List
 
 You would use a linked list class tht has the methods add, delete, and any other methods you may want. Using a node class, the list would be built with each node pointing to the next node.
+
+What's the JS global object? 
+
+An object that provides access to built-in functions and values (like alert). It provides access to global funciton declarations and var variables. In the brower, the global object is known as the iwndow. 
